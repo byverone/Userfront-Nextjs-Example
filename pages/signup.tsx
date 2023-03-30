@@ -7,7 +7,7 @@ import ProjectsTableBlock from "../components/Blocks/ProjectsTableBlock";
 import Userfront from "@userfront/react";
 
 const SignUp: NextPage = () => {
-    Userfront.init("vbqxrwgn");
+    Userfront.init("demo1234");
 
     const SignupForm = Userfront.build({
         toolId: "dkklbor",
